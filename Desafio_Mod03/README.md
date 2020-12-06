@@ -32,5 +32,5 @@ Algumas dicas com base na implementação feita pelo professor, que foi feita co
 
 1- no diretório src, digite:
 
-Yarn start
+    Yarn start
 

@@ -35,6 +35,6 @@ Dicas
 
 ## Para abrir o progama, entre na diretório principal e digite:
 
-index.html 
+    index.html 
 
 
