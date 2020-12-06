@@ -16,4 +16,4 @@ Os alunos deverão desempenhar as seguintes atividades:
 
 ## Iniciando o programa no console:
 
-index.html
+    index.html
