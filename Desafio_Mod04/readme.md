@@ -26,7 +26,7 @@ https://github.com/brunoaugustoteixeira/grades-api.git, entretanto, suas rotas e
     - Liberação do IP do Heroku no MongoDB Atlas.
     - Configuração do host de origem e destino entre o back e front.
     - Configuração das variáveis de processo no ambiente do Heroku.
-```
+
 
 ## Como iniciar o projeto:
 
