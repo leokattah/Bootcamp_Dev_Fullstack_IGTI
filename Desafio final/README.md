@@ -14,7 +14,7 @@ O projeto é um desafio do curso [bootcamp online - desenvolvedor fullstack](htt
 
 Quer saber mais sobre os módulos da formação? Acesse o meu repositório completo; [bootcamp-fullstack](https://github.com/mauricio-viana/bootcamp-fullstack) 👈
 
-## Gostou do projeto? Veja como utiliza-lo: 🚀
+## Gostou do projeto? Veja como utilizá-lo: 🚀
 
 **Pré requisitos: Node + Yarn**
 
@@ -33,7 +33,7 @@ Backend
 
 ```bash
 # Faça clone do repositorio
-$ git clone https://github.com/mauricio-viana/finapp.git
+$ git clone ...
 
 # Entre no diretório
 $ cd finapp
@@ -65,9 +65,3 @@ $ yarn start
 - [MongoDB Atlas](https://www.mongodb.com/)
 - [Heroku](https://www.heroku.com/)
 
-## Autor
-
-👤 **Mauricio Viana**
-
-- Linkedin: [@mauricio-viana](https://www.linkedin.com/in/mauricio-viana)
-- Github: [@mauricio-viana](https://github.com/mauricio-viana)
