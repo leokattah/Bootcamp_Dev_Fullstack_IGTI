@@ -20,12 +20,12 @@ https://github.com/brunoaugustoteixeira/grades-api.git, entretanto, suas rotas e
 8. Publicar o Back-End disponibilizado após a implementação das atividades 2 e 3.
 9. Ajustar os parâmetros de comunicação do Front-End com o Back-End, bem como o processo de deploy automático no Heroku. Os parâmetros de comunicação entre o front e back podem ser encontrados em http-common.js (front) e app.js (back).
 
-```bash 
+
 ## Atenção aos pontos:
 
-- Liberação do IP do Heroku no MongoDB Atlas.
-- Configuração do host de origem e destino entre o back e front.
-- Configuração das variáveis de processo no ambiente do Heroku.
+    - Liberação do IP do Heroku no MongoDB Atlas.
+    - Configuração do host de origem e destino entre o back e front.
+    - Configuração das variáveis de processo no ambiente do Heroku.
 ```
 
 ## Como iniciar o projeto:
