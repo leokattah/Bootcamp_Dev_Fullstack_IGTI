@@ -1,4 +1,10 @@
-Atividades
+# Desafio Módulo 1 #
+
+## Enunciado
+
+Criar uma aplicação para filtrar usuários e mostrar estatísticas a partir do filtro definido.
+
+##### Atividades
 
 Os alunos deverão desempenhar as seguintes atividades:
 
@@ -38,7 +44,7 @@ os comandos document.createElement, appendChild, etc.
 11.Não deixe de assistir o vídeo desse desafio, onde demonstro a aplicação em
 funcionamento e dou mais algumas dicas. 
 
-*Para abrir o progama, entre na diretório principal e digite:*
+## Para abrir o progama, entre na diretório principal e digite:*
 
 index.html 
 

@@ -1,10 +1,11 @@
 # Bootcamp-Full-Stack-IGTI-Junho-2020
 
-## Sobre
+## Enunciado
 
 Desafio desenvolvido com objetivo de praticar os assuntos tratados na bootcamp.
 
-## Objetivo
+## Atividades
+
 Dessa vez o desafio era desenvolver uma API no qual iria controlar notas de alunos em matérias de um curso já pré-definidos. Os endpoints deve publicar novos alunos, alterar dados, deletar, e fazer busca por médias e de matérias.
 
 - Exercitar os conceitos trabalhados no módulo para criação de uma API, criando endpoints utilizando Node.js e Express.
