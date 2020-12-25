@@ -1,4 +1,6 @@
-# Bootcamp para Desenvolvedor Full Stack - IGTI 
+1
+
+# Bootcamp para Desenvolvedor Full Stack - IGTI
 
 Repositório para armazenar conteúdos do Bootcamp de Desenvolvedor Full Stack da IGTI.
 
@@ -40,20 +42,20 @@ Entrega do Desafio Final.
 
 Atividades entregues
 
- Trabalho Prático 1
- 
- Desafio Módulo 1
- 
- Trabalho Prático 2
- 
- Desafio Módulo 2
- 
- Trabalho Prático 3
- 
- Desafio Módulo 3
- 
- Trabalho Prático 4
- 
- Desafio Módulo 4
- 
+Trabalho Prático 1
+
+Desafio Módulo 1
+
+Trabalho Prático 2
+
+Desafio Módulo 2
+
+Trabalho Prático 3
+
+Desafio Módulo 3
+
+Trabalho Prático 4
+
+Desafio Módulo 4
+
 Todos os Módulos foram completados.
