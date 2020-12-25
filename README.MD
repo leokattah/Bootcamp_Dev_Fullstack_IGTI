@@ -1,5 +1,3 @@
-1
-
 # Bootcamp para Desenvolvedor FullStack - IGTI
 
 <p align="center"> 
