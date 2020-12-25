@@ -1,8 +1,18 @@
 1
 
-# Bootcamp para Desenvolvedor Full Stack - IGTI
+# Bootcamp para Desenvolvedor FullStack - IGTI
 
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/bmndx/bootcamp-igti/master/img/fullstack.png">
+</p>
+
+<h1 align="center">
+ 🚀 Bootcamp IGTI - Desenvolvedor FullStack 🚀
+</h1>
+
+<h2 align="center">
 Repositório para armazenar conteúdos do Bootcamp de Desenvolvedor Full Stack da IGTI.
+</h2>
 
 Conteúdo Programático:
 
