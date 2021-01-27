@@ -20,4 +20,4 @@ Os alunos deverão desempenhar as seguintes atividades:
     index.html
     ```
 ![Programa rodando](https://j.gifs.com/k8Go65.gif)
-````
+
