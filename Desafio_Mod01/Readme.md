@@ -37,5 +37,6 @@ Dicas
 
     index.html 
 <script>
-<div style="position:relative;padding-bottom:56.313%;"><iframe src="//gifs.com/embed/mdulo-1-K1PQnr" frameborder="0" scrolling="no" width="792" height="446" style="backface-visibility: hidden; transform: scale(1); position: absolute; height: 100%; width: 100%;"></iframe></div>
+    <img src"
+             <div style="position:relative;padding-bottom:56.313%;"><iframe src="//gifs.com/embed/mdulo-1-K1PQnr" frameborder="0" scrolling="no" width="792" height="446" style="backface-visibility: hidden; transform: scale(1); position: absolute; height: 100%; width: 100%;"></iframe></div>">
 </script>
