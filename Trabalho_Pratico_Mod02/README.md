@@ -29,6 +29,8 @@ mesmo que tenha observações no nome entre parênteses. Exemplo: Cidade X (anti
 
 ## Iniciando o programa no console:
 
+```
     node index.js
-
+```
+![](https://j.gifs.com/YWjM0p.gif)
 
