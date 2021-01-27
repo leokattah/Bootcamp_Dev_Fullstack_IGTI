@@ -16,4 +16,8 @@ Os alunos deverão desempenhar as seguintes atividades:
 
 ## Iniciando o programa no console:
 
+````
     index.html
+    ```
+![Programa rodando](https://j.gifs.com/k8Go65.gif)
+````
