@@ -37,6 +37,6 @@ Dicas
 
     index.html 
 
-![](Programa rodando.gif)  
+![Programa rodando] (http://gifs.com/gif/mdulo-1-K1PQnr)
 
 
