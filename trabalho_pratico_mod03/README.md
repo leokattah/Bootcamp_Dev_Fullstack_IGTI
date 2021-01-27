@@ -50,5 +50,8 @@ Dicas:
 - Criei os componentes <InputFullSalary /> (para o salário bruto), <InputReadOnly /> (para os demais valores) e <ProgressBarSalary /> (para mostrar a barra horizontal).
 
 ## Iniciando o projeto no console:
-
+````
     yarn start
+````
+
+![Programa rodando](https://j.gifs.com/lxJpg1.gif)
