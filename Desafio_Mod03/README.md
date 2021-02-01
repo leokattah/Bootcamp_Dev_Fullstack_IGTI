@@ -32,5 +32,11 @@ Algumas dicas com base na implementação feita pelo professor, que foi feita co
 
 1- no diretório src, digite:
 
+```
     Yarn start
+ ```
+
+![Programa-rodando](https://j.gifs.com/L7QD3D.gif)
+
+
 
