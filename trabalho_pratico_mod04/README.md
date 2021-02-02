@@ -26,23 +26,23 @@ o saque fique negativo.
 
 ## Iniciando o projeto no console:
 
-    1- Iniciando a dependência express pelo console:
+1- Iniciando a dependência express pelo console:
 
     NPM init express
 
 
-    2- Instalando o Mongodb no projeto:
+2- Instalando o Mongodb no projeto:
 
     npm install mongodb
 
-    3- Iniciando a dependência do banco de dados Mongodb pelo console:
+3- Iniciando a dependência do banco de dados Mongodb pelo console:
 
     mongod
 
-    4- Iniciando a dependência Mongoose
+4- Iniciando a dependência Mongoose
 
 
     NPM start Mongoose
 
 
-    Abrir o mongo Atlas para acessar o bando de dados do trabalho prático. 
+Abrir o mongo Atlas para acessar o bando de dados do trabalho prático. 
